@@ -168,7 +168,7 @@ frame4_btn.place(x=120,y=45)
 
 
 
-show_frame(frame[4])
+show_frame(frame[0])
 #frame1.pack()
 
 window.mainloop()
